@@ -56,7 +56,7 @@ var tekenAlles = function () {
   // kogel
 
   // speler
-  fill("Red");
+  fill("white");
   rect(spelerX - 25, spelerY - 25, 50, 50);
   fill("black");
   ellipse(spelerX, spelerY, 10, 10);
